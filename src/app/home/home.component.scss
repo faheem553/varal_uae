@@ -1,0 +1,300 @@
+
+
+a{font-size: 1.25rem;}
+.HeafingH2{
+    font-size:50px;
+    width: 550px;
+    text-align: left;
+}
+.get{
+    border-bottom: 5px solid orange;
+}
+.para{
+    font-size: 25px;
+    color: rgb(139, 133, 133);
+    width:510px ;
+}
+.Start{
+    border: 1px solid rgb(76, 76, 230);
+    padding: 20px;
+    border-radius: 6px 0px 0px 6px;
+}
+.Renew{
+    border: 1px solid rgb(76, 76, 230);
+    padding: 20px;
+    border-radius: 0px 6px 6px 0px;
+}
+input{
+   width: 50%;
+}
+svg{
+    position: absolute;
+    margin: 20px;
+    color:rgb(76, 76, 230) ;
+}
+::placeholder {
+    color: rgb(76, 76, 230);
+    opacity: 1; 
+    text-align: center;
+    font-size: larger;
+  }
+  input[type=text]{
+    border: 5px solid rgb(76, 76, 230);
+    border-radius: 5px;
+  }
+  input[type=text]:focus {
+    border:5px solid rgb(76, 76, 230);
+  }
+.image{
+    width:100vh;
+}
+.line{
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+.line .line1{
+    font-size: larger;
+    color: rgb(76, 76, 230);
+    margin: 10px;
+}
+.line .play{
+    border: 5px solid rgb(76, 76, 230);
+    border-radius: 50%;
+    padding: 5px;
+}
+.get1{
+    border-bottom: 5px solid orange;
+    width: 20px;
+    
+}
+.para2{
+    font-size: 25px;
+    color: rgb(139, 133, 133);
+    width: 41%;
+    margin: auto;
+    text-align: center;  
+}
+.mission{
+    text-align: center;
+    margin: 10px;
+}
+.logo{
+    text-align: center;
+    margin: 10px;
+}
+.headT{
+    font-size: larger;
+    text-align: center;
+    margin: 10px;
+}
+.para3{
+    text-align: center;
+    color: rgb(139, 133, 133);
+    margin: 10px;
+}
+.ancar{
+    text-align: center;
+    margin: 10px;
+}
+.ancar a{
+    color: orange;
+}
+.RowInfo{
+    margin: 30px;
+}
+.learn{
+    width: 350px;
+    text-align: start;
+    margin:100px auto;
+
+}
+.learn p{
+    font-size: larger;
+}
+.bank{
+    border: 3px solid gray;
+    width: 400px;
+    height: 600px;
+    margin: 100px auto;
+    padding: 25px;
+    border-radius: 8px;
+}        
+.bank p{
+    font-size: large;
+    color: rgb(139, 133, 133);
+}
+.Most{
+    font-size:30px;
+    width: 35%;
+    margin: auto;
+    text-align: center;
+}
+
+.AJMAN{
+    font-size: large;
+    color:rgb(76, 76, 230) ;
+    padding: 10px; 
+}
+.Payment{
+    font-size: 30px;
+    color:rgb(76, 76, 230) ;
+    padding: 10px;
+}
+.Payment .one{
+    color: rgb(139, 133, 133);
+    font-size: large;
+} 
+.Company{
+    width: 60%;
+    color:rgb(76, 76, 230) ;
+    font-size: large;
+    padding: 10px;
+}
+.List ul li{
+list-style: none;
+color:rgb(76, 76, 230) ;
+padding: 10px;
+font-size: large;
+}
+.Continue button{
+    font-size: larger;
+    color:rgb(76, 76, 230) ;
+    padding: 20px;
+    width: 400px;
+    border: 3px solid rgb(76, 76, 230);
+    border-radius: 5px;
+}
+.Continue{
+text-align: center;
+}
+.box2{
+    background-color:rgb(76, 76, 230) ;
+    border-radius: 5px;
+}
+.AJMAN2{
+    font-size: large;
+    color:white;
+    padding: 10px; 
+}
+.Payment2{
+    font-size: 30px;
+    color:white ;
+    padding: 10px;
+}
+.Payment2 .one{
+    color: white;
+    font-size: large;
+} 
+.Company2{
+    width: 60%;
+    color:white ;
+    font-size: large;
+    padding: 10px;
+}
+.List2 ul li{
+    list-style: none;
+    color:white ;
+    padding: 10px;
+    font-size: large;
+    }
+    .List2 ul li span img{
+       color: white;
+    }
+ .Continue2 button{
+        font-size: larger;
+        color:rgb(76, 76, 230) ;
+        padding: 20px;
+        width: 400px;
+        border: 3px solid rgb(76, 76, 230);
+        border-radius: 5px;
+ }
+ .Continue2{
+    text-align: center;
+ }
+.footer{
+text-align: center;
+ }
+ .read p{
+    font-weight: bold;
+    font-size: large;
+    width: 50%;
+    border-left: 5px solid rgb(76, 76, 230);
+ }
+ .how{
+    display: flex;
+    margin: 20px auto;
+ }
+ .how img{
+    border: 1px solid rgb(76, 76, 230);
+    border-radius: 5px;
+    padding: 20px;  
+    // width:100px;
+ }
+ .how p{
+    font-size: large;
+    width: 60%;
+    font-weight: bold;
+    text-align: start;
+    margin-left: 20px;
+ }
+ .how a{
+    display: flex;
+    text-decoration: none;
+    margin-left: 20px;
+ }
+ .name img{
+    border: 2px solid rgb(76, 76, 230);
+    border-radius: 50%;
+    padding: 10px;
+ }
+ .name .rama{
+    font-size: large;
+ }
+ .Services{
+    width: 15%;
+    font-size: large;
+    color: rgb(139, 133, 133);
+    padding: 10px;
+ }
+ .working{
+    text-align: start;
+    font-size: large;
+    color: rgb(139, 133, 133);
+    padding: 10px;
+ }
+ .Policies{
+    width: 20%;
+    font-size: large;
+    color: rgb(139, 133, 133);
+    padding: 10px;
+ }
+.About{
+    width: 20%;
+    font-size: large;
+    color: rgb(139, 133, 133);
+    padding: 10px;
+}
+.Address{
+    text-align: start;
+    font-size: large;
+    color: rgb(139, 133, 133);
+    padding: 10px;
+}
+.Subscribe{
+    text-align: start;
+    font-size: large;
+    color: rgb(139, 133, 133);
+    padding: 10px;
+}
+.enter .input{
+    padding: 15px;
+}
+.social img{
+    padding: 15px;
+}
+.right{
+    text-align: center;
+    color: rgb(139, 133, 133);
+    font-size: large;
+}
